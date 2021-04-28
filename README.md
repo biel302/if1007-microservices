@@ -23,8 +23,11 @@
 
 A ideia do projeto é criar um middleware de conexão entre os kits do Strateegia e os boards do trello, aplicando o conhecimento de microsserviços adquirido na disciplina.
 Mapeamento: 
-Kit do strateegia → Board do Trello
-Questão do strateegia→ Cards do Trello na lista ‘To do’
+- Estrutura estilo Kanban
+- Mapa do Strateegia →  Organização do Trello
+- Kit do strateegia → Board do Trello
+- Questão do strateegia→ Cards do Trello na lista ‘To do’
+
 
 ## Equipe
 
