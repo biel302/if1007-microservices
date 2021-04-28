@@ -65,7 +65,7 @@ Ferramenta de gerenciamento de projetos e atividades. Nele, é possível quadros
 - Não é possível atualizar um kit convertido
 
 ## Arquitetura
-![alt text](https://i.ibb.co/zxGcjrT/Arq.jpg)
+![alt text](https://i.ibb.co/LpY2RZH/Arq-Microservices.jpg)
 
 ## Projetos Futuros
 
